@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976536236598",
+    "project_id": "smart-campus-ert",
+    "storage_bucket": "smart-campus-ert.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976536236598:android:307dfb2798400331209e97",
+        "android_client_info": {
+          "package_name": "com.example.smart_campus_erp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6pD9JLDstVjsd76ntgOsYNDi8v4brFkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
